@@ -1,0 +1,25 @@
+{
+  "name": "Client-Server-Programming",
+  "version": "1.0.0",
+  "description": "Assignment 4",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiong-wu-2317/Client-Server-Programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiong-wu-2317/Client-Server-Programming/issues"
+  },
+  "homepage": "https://github.com/qiong-wu-2317/Client-Server-Programming#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
